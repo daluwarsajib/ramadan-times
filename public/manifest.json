@@ -1,0 +1,31 @@
+{
+    "name": "Ramadan Daily — Sehri & Iftar Times",
+    "short_name": "Ramadan Daily",
+    "description": "Your daily Ramadan companion — accurate Sehri & Iftar times for all 64 districts of Bangladesh with live countdown and duas.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f0fdf4",
+    "theme_color": "#10b981",
+    "orientation": "portrait",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/icons/moon-128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/moon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "lifestyle",
+        "utilities"
+    ],
+    "lang": "en",
+    "dir": "ltr"
+}
